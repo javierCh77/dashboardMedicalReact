@@ -1,11 +1,9 @@
-## Medical management system
+# Medical management system
 
-
-
-# install axion para mostrar datos
+## install axion para mostrar datos
 npm install axios
  
-# api de google
+## api de google
 npm install googleapis google-auth-library
 
 ![md2](https://github.com/javierCh77/dashboardMedicalReact/assets/117025400/6998ffb1-7f75-4478-b3b1-d2aa8d8bf159)
