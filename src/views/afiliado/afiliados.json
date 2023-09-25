@@ -1,0 +1,59 @@
+{
+    "afiliados": [
+      {
+        "id" : "01",
+        "dni": 34328318,
+        "taf": "Titular",
+        "et": "E/T",
+        "sit": "E/T",
+        "nombre": "ricardo darin",
+        "apellido": "gomez",
+        "fecha": "20/06/1989",
+        "cuil": "20343283181",
+        "sexo" : "Masculino",
+        "alta" : "20/12/2012",
+        "direccion": "formosa 663",
+        "celular":"2901416491",
+        "email": "javierchavarria21@gmail.com",
+        "planta" : "Planta 5",
+        "turno": "Mañana"
+      },
+      {
+        "id" : "02",
+        "dni": 31322118,
+        "taf": "Titular",
+        "et": "E/T",
+        "sit": "E/T",
+        "nombre": "agustin adolfo",
+        "apellido": "chavarria",
+        "fecha": "20/06/1989",
+        "cuil": "20343283181",
+        "sexo" : "Masculino",
+        "alta" : "20/12/2012",
+        "direccion": "formosa 663",
+        "celular":"2901416491",
+        "email": "test@gmail.com",
+        "planta" : "Planta 5",
+        "turno": "Mañana"
+      },
+      {
+        "id" : "03",
+        "dni": 1332565,
+        "taf": "Titular",
+        "et": "E/T",
+        "sit": "E/T",
+        "nombre": "laura lopes",
+        "apellido": "chavarria",
+        "fecha": "20/06/1989",
+        "cuil": "20343283181",
+        "sexo" : "femenino",
+        "alta" : "20/12/2012",
+        "direccion": "formosa 663",
+        "celular":"2901416491",
+        "email": "test@gmail.com",
+        "planta" : "Planta 5",
+        "turno": "Mañana"
+      }
+    ]
+  }
+  

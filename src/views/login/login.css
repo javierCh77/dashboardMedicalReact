@@ -1,0 +1,70 @@
+.container-login{
+  display:flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: rgb(4,27,172);
+  background: linear-gradient(0deg, rgb(33, 30, 80) 50%, rgba(255,255,255,1) 50%);
+}
+.container-logo{
+  width: 40vw;
+  height: 40vh;
+  margin-right: 6rem;
+}
+
+.container-form{
+  background-color: rgba(83, 107, 141, 0.249);
+  width: 27vw;
+  border-radius: 10px;
+  padding: 10px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container-title{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(33, 30, 80, 0.744);
+}
+#form{
+  margin-top: 30px;
+}
+#copy{
+  text-align: center;
+  color: #cce2eba7;
+  margin-top: 2rem;
+}
+.logo-uom{
+  width: 4rem;
+  margin-right: 1rem;
+}
+
+.reset-password{
+  display:flex;
+  justify-content: right;
+  margin-bottom: 10px; 
+  margin-right: 6px; 
+}
+#link{
+  text-decoration: none;
+  color:rgb(239, 236, 148);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+.container-datos{
+    display: flex;
+    flex-direction: column;
+}
+.datos1{
+    display:flex;
+    flex-direction: row;
+    gap:8px;
+    justify-content: center;
+}
+.datos2{
+    display:flex;
+    flex-direction: row;
+    gap:8px;
+    justify-content: center;
+}
+
+.datos3{
+    display:flex;
+    flex-direction: row;
+    gap:8px;
+    justify-content: center;
+}
+
+.datos4{
+    display:flex;
+    flex-direction: row;
+    gap:8px;
+    justify-content: center;
+}
+
+.modal-header{
+    background-color: rgb(140, 194, 144); 
+}

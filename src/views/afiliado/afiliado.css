@@ -1,0 +1,41 @@
+.container-form-buscar{
+    display:flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.form-buscar{
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    margin: auto;
+    margin-top: 4rem;
+    padding: 2em;
+    height: 2vh;
+}
+
+.input-buscar{
+    width: 40vw;
+    margin-right: 10px;
+}
+.form-button{
+    display:flex;
+    justify-content: space-around;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+
+.test{
+    margin-top: 4rem;
+    width: 100vw;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.h4{
+    text-decoration: underline;
+}
+
+

@@ -1,0 +1,24 @@
+.container-dashboard{
+    display:flex;
+    flex-direction: column;
+    width: 100vw;
+}
+.header{
+    height: 8vh;
+}
+.dashboard{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+
+.title{
+    background-color: rgb(143, 196, 218);
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+.content{
+    padding: 40px;
+    text-align: justify;
+}

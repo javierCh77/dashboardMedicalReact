@@ -1,0 +1,43 @@
+.container-restore{
+  display:flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: rgb(4,27,172);
+  background: linear-gradient(0deg, rgb(33, 30, 80) 50%, rgb(138, 182, 193) 50%);
+}
+.container-logo-restore{
+  width: 40vw;
+  height: 40vh;
+  margin-right: 6rem;
+}
+
+.container-form-restore{
+  width: 30vw;
+  margin-top: 20px;
+  padding: 10px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container-title-restore{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+#form{
+  margin-top: 30px;
+}
+#copy{
+  text-align: center;
+  color: #ffffffa7;
+  margin-top: 2rem;
+}
+.logo-password{
+  width: 4rem;
+  margin-right: 1rem;
+}
+
